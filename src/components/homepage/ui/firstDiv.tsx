@@ -412,12 +412,14 @@ export function GlobeDemo() {
           className="div"
         >
           <h2 className="text-center text-xl md:text-4xl font-bold text-black dark:text-white">
-            We sell soap worldwide
+          Empowering Innovation with AI Solutions
           </h2>
           <p className="text-center text-base md:text-lg font-normal text-neutral-700 dark:text-neutral-200 max-w-md mt-2 mx-auto">
-            This globe is interactive and customizable. Have fun with it, and
-            don&apos;t forget to share it. :)
+          From Vision to Language, Here at motherson
           </p>
+          <h1 className="text-center font-bold text-base tracking-wide md:text-7xl font-bold text-neutral-100 font-stretch-extra-expanded dark:text-neutral-100/50 mt-10 mx-auto">
+          We Build the Future.
+          </h1>
         </motion.div>
         <div className="absolute w-full bottom-0 inset-x-0 h-40 bg-gradient-to-b pointer-events-none select-none from-transparent dark:to-black to-white z-40" />
         <div className="absolute w-full -bottom-20 h-72 md:h-full z-10">
